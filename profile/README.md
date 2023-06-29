@@ -1,6 +1,6 @@
 # VitroLabs Inc
 
-This repository contains information about VitroLabs Inc, a company dedicated to producing real leather in a more humane and sustainable way through laboratory cultivation. By leveraging science and nature responsibly, VitroLabs aims to create authentic materials without compromise.
+This page contains information about VitroLabs Inc, a company dedicated to producing real leather in a more humane and sustainable way through laboratory cultivation. By leveraging science and nature responsibly, VitroLabs aims to create authentic materials without compromise.
 
 ## Table of Contents
 - [Mission](#mission)
