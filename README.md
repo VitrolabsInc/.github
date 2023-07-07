@@ -2,12 +2,16 @@
 
 This repository contains information about VitroLabs Inc, a company dedicated to producing real leather in a more humane and sustainable way through laboratory cultivation. By leveraging science and nature responsibly, VitroLabs aims to create authentic materials without compromise.
 
+
 ## Table of Contents
-- [Mission](#mission)
-- [Our Process](#our-process)
-- [Collaboration](#collaboration)
-- [News](#news)
-- [Contact](#contact)
+- [VitroLabs Inc](#vitrolabs-inc)
+  - [Table of Contents](#table-of-contents)
+  - [Mission](#mission)
+  - [Our Process](#our-process)
+  - [Collaboration](#collaboration)
+  - [News](#news)
+  - [Contact](#contact)
+  - [Legal](#legal)
 
 ## Mission
 
@@ -50,7 +54,3 @@ Email: hello@vitrolabsinc.com
 Stay in the Know
 Be the first to hear about VitroLabs partnerships, events, opportunities, exclusive product releases, and all the latest innovations in cultured leather. Sign up with your name and email address to stay updated.
 
-Name: [your name]
-Email: [your email address]
-
-Submit
